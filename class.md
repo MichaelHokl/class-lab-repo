@@ -1,6 +1,6 @@
 ## Class Information
-- Name: [Your Name Here]  
-- Certification: [Your Certification Name Here]  
+- Name: Michael Hokl
+- Certification: Michael Hokl
 
 ## Instructions
 Please replace the placeholders with your details:
